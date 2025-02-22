@@ -1,0 +1,30 @@
+{
+  "name": "festadasmensagensnpm",
+  "version": "1.0.0",
+  "description": "Um pacote para gerar mensagens personalizadas de aniversário usando APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Leonardo Polo <leonardopolo96@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "mensagens",
+    "aniversário",
+    "geração",
+    "API"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoPoloPe/festadasmensagensnpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeonardoPoloPe/festadasmensagensnpm/issues"
+  },
+  "homepage": "https://festadasmensagens.com.br",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.17.1"
+  }
+}
